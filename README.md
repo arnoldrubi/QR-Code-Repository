@@ -6,7 +6,7 @@ This is a simple QR code card from Front End Mentor. I decided to take the chall
 
 ### Link
 
-- Solution URL: [Add solution URL here](https://arnoldrubi.github.io/QR-Code-Repository/)
+- Solution URL: [https://arnoldrubi.github.io/QR-Code-Repository/](https://arnoldrubi.github.io/QR-Code-Repository/)
 
 ### Learning and insights
 
